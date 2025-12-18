@@ -3,6 +3,7 @@ import axios from "axios";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import "./Todo.css";
+import React from "react";
 
 const API_URL = "https://6943fca37dd335f4c35eda70.mockapi.io/todos";
 
